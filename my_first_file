@@ -1,1 +1,3 @@
 cout<<"the addition of 2 numbers"<<a+b;
+cout<<"the difference bw 2 numbers"<<a-b;
+
